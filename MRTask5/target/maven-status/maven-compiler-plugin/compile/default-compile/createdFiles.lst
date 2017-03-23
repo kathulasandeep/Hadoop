@@ -1,0 +1,7 @@
+com/cloudwick/sandeep/MRTask5/MyMapper.class
+com/cloudwick/sandeep/MRTask5/CustomWritable.class
+com/cloudwick/sandeep/MRTask5/GroupComparator.class
+com/cloudwick/sandeep/MRTask5/MyReducer.class
+com/cloudwick/sandeep/MRTask5/Driver.class
+com/cloudwick/sandeep/MRTask5/SortComparator.class
+com/cloudwick/sandeep/MRTask5/MyPartitioner.class
